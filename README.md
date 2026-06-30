@@ -1,0 +1,2 @@
+# b61debf556a380b5-dental-practice-task-automatio
+The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Dental Practice Task Automation And Delegation — fully configured and ready t
